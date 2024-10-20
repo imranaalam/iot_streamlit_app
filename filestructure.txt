@@ -1,0 +1,4 @@
+|-- app.py
+|-- database
+    |-- iot_app.db
+|-- esp32_code
